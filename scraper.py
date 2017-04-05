@@ -1,3 +1,6 @@
+import scraperwiki
+import xlrd
+
 #set a variable for the spreadsheet location
 XLS = 'http://webarchive.nationalarchives.gov.uk/20130402145952/http://transparency.dh.gov.uk/files/2012/10/DailySR-Pub-file-WE-11-11-123.xls'
 #use the scrape function on that spreadsheet to create a new variable
